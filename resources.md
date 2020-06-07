@@ -3,3 +3,5 @@ We used this to calculate the gallons of water conserved in our facility online:
 We tried to understand the US water crisis, thanks to this site: [the water project](https://thewaterproject.org/water-scarcity/water_scarcity_in_us)
 
 We tried to know the feasibility of our project using this: [Tactical Project Management](https://www.tacticalprojectmanagement.com/five-steps-to-determine-project-feasibility/)
+
+We got the idea of pipeline problems in North America using this site: [Safety Management](https://safetymanagement.eku.edu/blog/our-nations-growing-water-crisis-what-you-need-to-know/#:~:text=According%20to%20the%20American%20Water,is%20a%20first%2Dworld%20country.)
